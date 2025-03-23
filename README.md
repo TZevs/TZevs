@@ -64,4 +64,6 @@ Projects I am currently working on:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
+# GitHub Stats:
+![TZevs GitHub stats](https://github-readme-stats.vercel.app/api?username=TZevs&theme=dracula&include_all_commits=true&count_private=true&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TZevs&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
