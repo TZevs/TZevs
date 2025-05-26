@@ -5,9 +5,8 @@ A 2nd year Software Engineering Student. <br>
 Working toward a **BEng (Hon) Software Engineering Degree**.
 <br><br>
 Projects I am currently working on:
-* A Flashcard Revision Mobile App
-  * Flutter & Dart
 * Updating my portfolio
+  * React 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalia-evans-935516314/)
