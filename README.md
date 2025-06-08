@@ -2,8 +2,8 @@
 
 I am Thalia. <br>
 A 2nd year Software Engineering Student. <br>
-Working toward a **BEng (Hon) Software Engineering Degree**.
-![My Portfolio](https://tzevs-portfolio.netlify.app)
+Working toward a **BEng (Hon) Software Engineering Degree**. <br>
+[Click Here for My Portfolio](https://tzevs-portfolio.netlify.app)
 <br><br>
 Projects I am currently working on:
 
