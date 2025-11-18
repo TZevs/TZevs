@@ -4,6 +4,9 @@
 🔥 Passionate about building web apps, learning different technologies and exploring machine learning.<br>
 🔗 **Portfolio:** [tzevs-portfolio.netlify.app](https://tzevs-portfolio.netlify.app)
 
+### At The Moment:
+I am currently working on a proof of concept of a Complaint Management System(CMS), for my Software Architecture and Design module at university. 
+
 ---
 
 ### 🛠️ Tech Stack:
