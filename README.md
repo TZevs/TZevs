@@ -5,7 +5,7 @@
 🔗 **Portfolio:** [tzevs-portfolio.netlify.app](https://tzevs-portfolio.netlify.app)
 
 ### At The Moment:
-I am currently working on a proof of concept of a Complaint Management System(CMS), for my Software Architecture and Design module at university. 
+I am currently working on a Complaint Management System proof of concept for my Software Architecture and Design module at university. 
 
 ---
 
