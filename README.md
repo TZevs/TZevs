@@ -1,11 +1,13 @@
 ## Hi there 👋, I'm Thalia 
 
 💻 **Software Engineering Student** | 🌍 Based in Sheffield. <br>
-🔥 Passionate about building web apps, learning different technologies and exploring machine learning.<br>
+🔥 Passionate about building web apps, understanding project lifecycles, learning new technologies and exploring machine learning.<br>
 🔗 **Portfolio:** [tzevs-portfolio.netlify.app](https://tzevs-portfolio.netlify.app)
 
 ### At The Moment:
-I am currently working on a Complaint Management System proof of concept for my Software Architecture and Design module at university. 
+I am currently working on my final project for my course, I am developing a Social Influence Analysis Tool for Buisnesses. The repo is private and will be until after I recieve my grade. 
+
+I am also working on 2 ML projects for my university elective assignment. The first being fraud detection, the other image processing. 
 
 ---
 
