@@ -1,7 +1,8 @@
-## Hi there 👋, I'm Thalia 
+## 👋 Hi there, I'm Thalia 
 
-💻 **Software Engineering Student** | 🌍 Based in Sheffield. <br>
-🔥 Passionate about building web apps, understanding project lifecycles, learning new technologies and exploring machine learning.<br>
+💻 **Software Engineering Student** | 🌍 <ins>Currently</ins>, based in Sheffield. <br><br>
+🔥 Passionate about building web apps, understanding project lifecycles, learning new technologies and exploring machine learning.
+<br><br>
 🔗 **Portfolio:** [tzevs-portfolio.netlify.app](https://tzevs-portfolio.netlify.app)
 
 ### At The Moment:
@@ -11,7 +12,7 @@ I am also working on 2 ML projects for my university elective assignment. The fi
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Tech Stack Experience:
 
 #### **Frontend Development:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
