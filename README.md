@@ -1,9 +1,8 @@
-## 👋 Hi there, I'm Thalia 
+<h2 style="text-align:center;">👋 Hi there, I'm Thalia</h2> 
 
 💻 **Software Engineering Student** | 🌍 <ins>Currently</ins>, based in Sheffield. <br><br>
 🔥 Passionate about building web apps, understanding project lifecycles, learning new technologies and exploring machine learning.
 <br><br>
-🔗 **Portfolio:** [tzevs-portfolio.netlify.app](https://tzevs-portfolio.netlify.app)
 
 ### At The Moment:
 I am currently working on my final project for my course, I am developing a Social Influence Analysis Tool for Buisnesses. The repo is private and will be until after I recieve my grade. 
