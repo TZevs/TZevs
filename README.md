@@ -1,7 +1,7 @@
-<h2 style="text-align:center;">👋 Hi there, I'm Thalia</h2> 
-
-💻 **Software Engineering Student** | 🌍 <ins>Currently</ins>, based in Sheffield. <br><br>
-🔥 Passionate about building web apps, understanding project lifecycles, learning new technologies and exploring machine learning.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=👋Hi%20There,%20I'm%20Thalia&fontSize=60)
+<div align="center">
+  <h3>An Adaptable and Curious Graduate Software Engineer from South Yorkshire</h3>
+</div>
 <br><br>
 
 ### At The Moment:
