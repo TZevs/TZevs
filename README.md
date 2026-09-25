@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=175&section=header&text=👋Hi%20There,%20I'm%20Thalia&fontSize=50&fontColor=black&fontAlignY=40)
-<div align="center">
-  <h3>An Adaptable and Curious Graduate Software Engineer from South Yorkshire</h3>
-</div>
-<br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=👋Hi%20There,%20I'm%20Thalia&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=An%20Adaptable%20and%20Curious%20Graduate%20Software%20Engineer%20from%20South%20Yorkshire)
 
 ### At The Moment:
 I am currently working on my final project for my course, I am developing a Social Influence Analysis Tool for Buisnesses. The repo is private and will be until after I recieve my grade. 
