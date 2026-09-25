@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=👋Hi%20There,%20I'm%20Thalia&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=4&height=150&section=header&text=👋Hi%20There,%20I'm%20Thalia&fontSize=60)
 <div align="center">
   <h3>An Adaptable and Curious Graduate Software Engineer from South Yorkshire</h3>
 </div>
