@@ -11,6 +11,15 @@ fields_of_interest:
     "AI",
     "Machine Learning"
   ]
+
+currently_working_on:
+  [
+    "Improving and practicing my programming skills",
+    "Understanding Agentic AI",
+    "Applying for Graduate roles",
+    "Learning Graphic Design"
+  ]
+hobbies: [ "Reading": [ "Fantasy", "Mystery" ], "Art": [ "3D Modelling", "Sketching" ] ]
 ```
 
 ---
@@ -59,8 +68,8 @@ fields_of_interest:
 
 ---
 
-#### 🏆 Github Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=TZevs&theme=dracula)
+### 📈 My GitHub History
+[![TZevs' Stats](https://github-stats-extended.vercel.app/api?username=TZevs&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=TZevs&include_all_commits=true&theme=vue-dark)
 
 ---
 
